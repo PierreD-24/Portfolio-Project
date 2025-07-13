@@ -1,0 +1,72 @@
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\appsettings.json
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Portfolio.staticwebassets.endpoints.json
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Portfolio.exe
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Portfolio.deps.json
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Portfolio.runtimeconfig.json
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Portfolio.dll
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Portfolio.pdb
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pdahr\Desktop\Portfolio\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.csproj.AssemblyReference.cache
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.AssemblyInfo.cs
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\scopedcss\bundle\Portfolio.styles.css
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.build.Portfolio.props
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio.props
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Portfolio.props
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.csproj.Up2Date
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.dll
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\refint\Portfolio.dll
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.pdb
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\Portfolio.genruntimeconfig.cache
+C:\Users\pdahr\Desktop\Portfolio\obj\Debug\net9.0\ref\Portfolio.dll
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\appsettings.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Portfolio.staticwebassets.endpoints.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Portfolio.exe
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Portfolio.deps.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Portfolio.runtimeconfig.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Portfolio.dll
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Portfolio.pdb
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.csproj.AssemblyReference.cache
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.AssemblyInfo.cs
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\scopedcss\bundle\Portfolio.styles.css
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.build.Portfolio.props
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio.props
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Portfolio.props
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.csproj.Up2Date
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.dll
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\refint\Portfolio.dll
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.pdb
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.genruntimeconfig.cache
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\ref\Portfolio.dll
