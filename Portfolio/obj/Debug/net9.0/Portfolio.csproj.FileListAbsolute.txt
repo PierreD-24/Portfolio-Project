@@ -70,3 +70,4 @@ C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\refint\Portf
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.pdb
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.genruntimeconfig.cache
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\ref\Portfolio.dll
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\obj\Debug\net9.0\Portfolio.sourcelink.json
