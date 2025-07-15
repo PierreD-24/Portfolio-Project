@@ -1,5 +1,10 @@
 import React, { useState } from 'react';
 import { contactAPI } from './apiService';
+import emailjs from '@emailjs/browser';
+
+const EMAILJS_SERVICE_ID = 'service_yw8qvi2';
+const EMAILJS_TEMPLATE_ID = 'template_188emqr';  
+const EMAILJS_PUBLIC_KEY = 'F1DEta-r63kmADyV7'; 
 
 const Contact = () => {
     const [formData, setFormData] = useState({
@@ -27,7 +32,18 @@ const Contact = () => {
         setSubmitStatus(null);
 
         try {
-            await contactAPI.submit(formData);
+            await emailjs.send(
+                EMAILJS_SERVICE_ID,
+                EMAILJS_TEMPLATE_ID,
+                {
+                    from_name: formData.name,
+                    from_email: formData.email,
+                    subject: formData.subject,
+                    message: formData.message,
+                },
+                EMAILJS_PUBLIC_KEY
+            );
+
             setSubmitStatus('success');
             setFormData({
                 name: '',
@@ -37,7 +53,7 @@ const Contact = () => {
             });
         } catch (error) {
             setSubmitStatus('error');
-            console.error('Error submitting contact form:', error);
+            console.error('Error sending email:', error);
         } finally {
             setIsSubmitting(false);
         }
