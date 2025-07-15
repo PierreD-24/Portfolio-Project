@@ -1,6 +1,7 @@
 import './App.css';
 import Projects from './projects';
 import Skills from './Skills';
+import Contact from './Contact';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
         <h1>My Portfolio</h1>
         <Projects />
         <Skills />
+        <Contact />
       </header>
     </div>
   );
