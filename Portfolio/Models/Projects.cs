@@ -14,7 +14,7 @@ namespace Portfolio.Models
         public List<string> Technologies { get; set; } = new();
         public string? GitHubUrl { get; set; }
         public string? LiveUrl { get; set; }
-        public string? ImageUrl { get; set; }
+        public List<string> Images { get; set; } = new(); 
         public DateTime CreatedDate { get; set; }
         public bool IsFeatured { get; set; }
     }
