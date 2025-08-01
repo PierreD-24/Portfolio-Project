@@ -1,5 +1,6 @@
 import './App.css';
 import ProjectShowcase from './ProjectShowcase';
+import AboutMe from './AboutMe';
 import Skills from './Skills';
 import Contact from './Contact';
 import "slick-carousel/slick/slick.css";
@@ -19,6 +20,10 @@ function App() {
       </header>
 
       <main className="main-content">
+        <section id="about" className="section">
+          <AboutMe />
+        </section>
+
         <section id="projects" className='section'>
           <ProjectShowcase />
         </section>
