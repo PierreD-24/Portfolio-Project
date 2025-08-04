@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { contactAPI } from './apiService';
 import emailjs from '@emailjs/browser';
 
 const EMAILJS_SERVICE_ID = process.env.REACT_APP_EMAILJS_SERVICE_ID;

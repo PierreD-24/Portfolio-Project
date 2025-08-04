@@ -30,7 +30,7 @@ const ProjectShowcase = () => {
         dots: true,
         infinite: true,
         speed: 500,
-        slidesToSHow: 1,
+        slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 5000,
@@ -82,12 +82,12 @@ const ProjectShowcase = () => {
                             </div>
                         </div>
 
-                        <div className='project-action'>
+                        <div className='project-actions'>
                             {project.gitHubUrl && (
                                 <a
                                     href={project.gitHubUrl}
                                     target="_blank"
-                                    rel="noopener nereferrer"
+                                    rel="noopener noreferrer"
                                     className='action-btn primary-btn'
                                 >
                                     View Source Code
