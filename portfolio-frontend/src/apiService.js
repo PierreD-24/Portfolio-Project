@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'portfolio-api-gkb9ehdrf8ckf7fj.canadacentral-01.azurewebsites.net';
+const API_BASE_URL = 'https://portfolio-api-gkb9ehdrf8ckf7fj.canadacentral-01.azurewebsites.net';
 
 const api = axios.create({
     baseURL: API_BASE_URL,
@@ -11,7 +11,7 @@ const api = axios.create({
 
 export const projectsAPI = {
     getAll: () => api.get('/projects'),
-    getById: (id) => api.get('/projects/${id}'),
+    getById: (id) => api.get(`/projects/${id}`),
     getFeatured: () => api.get('/projects/featured')
 };
 
