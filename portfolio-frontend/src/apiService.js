@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5101/api';
+const API_BASE_URL = 'portfolio-api-gkb9ehdrf8ckf7fj.canadacentral-01.azurewebsites.net';
 
 const api = axios.create({
     baseURL: API_BASE_URL,
