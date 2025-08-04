@@ -15,7 +15,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
     {
-        policy.WithOrigins("http://localhost:3000", "http://localhost:5173")
+        policy.WithOrigins("http://localhost:3000", "http://localhost:5173", "https://gray-ground-06620cc0f.1.azurestaticapps.net")
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
