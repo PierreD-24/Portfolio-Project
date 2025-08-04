@@ -1,4 +1,5 @@
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\Portfolio.exe
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\publish\web.config
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\web.config
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\appsettings.Development.json
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\appsettings.json
@@ -7,6 +8,11 @@ C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\appsettings.j
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\Portfolio.deps.json
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\Portfolio.runtimeconfig.json
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\Portfolio.staticwebassets.endpoints.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\publish\appsettings.Development.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\publish\appsettings.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\publish\Portfolio.deps.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\publish\Portfolio.runtimeconfig.json
+C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\publish\publish\Portfolio.staticwebassets.endpoints.json
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\Portfolio.dll
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\Portfolio.deps.json
 C:\Users\pdahr\Desktop\Portfolio Project\Portfolio\publish\Portfolio.runtimeconfig.json
